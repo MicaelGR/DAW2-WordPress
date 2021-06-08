@@ -1,0 +1,14 @@
+2021-05-21T00:33:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/ftsi/wordpress/wp-includes/functions.php en la línea 599
+
+2021-05-21T01:32:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/ftsi/wordpress/wp-includes/wp-db.php en la línea 3006
+
+2021-05-21T05:09:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/ftsi/wordpress/wp-includes/functions.php en la línea 599
+
+2021-05-21T09:48:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/ftsi/wordpress/wp-includes/wp-db.php en la línea 1417
+
+2021-05-21T15:08:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/ftsi/wordpress/wp-includes/functions.php en la línea 624
+
+2021-05-21T17:12:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/ftsi/wordpress/wp-includes/wp-db.php en la línea 3006
+
+2021-05-21T18:20:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/ftsi/wordpress/wp-includes/cron.php en la línea 461
+

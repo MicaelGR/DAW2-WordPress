@@ -1,0 +1,7 @@
+/* This CSS file will be loaded at last. Any CSS customization should be placed here */
+.car_result {
+	border: 1px solid #ddd;
+	display: flex;
+	flex-wrap: wrap;
+	background-color:white;
+}

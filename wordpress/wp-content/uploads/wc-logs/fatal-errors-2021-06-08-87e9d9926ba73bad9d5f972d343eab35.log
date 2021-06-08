@@ -1,0 +1,4 @@
+2021-06-08T01:50:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/daw2/wordpress/wp-includes/plugin.php en la línea 202
+
+2021-06-08T07:36:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/daw2/wordpress/wp-includes/wp-db.php en la línea 3006
+
